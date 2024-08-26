@@ -1,0 +1,4 @@
+ start 
+ inputA
+ INPUT B
+ SUM 1 +@ 
