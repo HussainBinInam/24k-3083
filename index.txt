@@ -1,4 +1,4 @@
  start 
  inputA
  INPUT B
- SUM 1 +@ 
+ SUM 1 +2
