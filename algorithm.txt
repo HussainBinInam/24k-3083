@@ -1,0 +1,19 @@
+1] Ask the user for NUMBER1
+   Ask the user for NUMBER2
+   If the modulus of NUMBER1/NUMBER2 is 0 then it is a divisor 
+   If the modulus of NUMBER1 / 2 is 0 then the number is odd otherwise it is even
+   Display if it is a divisor and if it is an odd or an even
+2]Ask for a number from the user 
+  Check the number against the postion of months in the list {January, February, March, April, May, June, July, August, September, October, November, December} 
+  Display the month that is on the postion number 
+3]Ask the user for a number
+  Ask the user for another number 
+  Ask the user for the opperator 
+  if the opperator is + then SET Output_Number to number1 + number2
+  if the opperator is - then SET Output_Number to number1 - number2
+  if the opperator is * then SET Output_Number to number1 * number2
+  if the opperator is / then SET Output_Number to number2 / number1
+  if the opperator is % the SET Output_Number to Modulas of (number2/ number1)
+  Display Output_Number for the user
+
+

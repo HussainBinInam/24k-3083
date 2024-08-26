@@ -1,0 +1,12 @@
+DECLEAR num1, out_num , num3 AS INTEGER
+DECLEAR opp AS CHAR
+INPUT num1  
+INPUT opp
+INPUT num3
+IF opp == '+' THEN
+    out_num = num1 + num3
+ELSE IF opp == '-' THEN
+    out_num = num1 - num3
+ELSE 
+    OUTPUT "ERROR"
+OUTPUT  out_num

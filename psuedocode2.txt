@@ -1,0 +1,6 @@
+DECLEAR num1, num2,num3 AS INTEGER 
+INPUT num1 
+INPUT num2
+
+num3 = |-num1 - num2|
+OUTPUT num3 
