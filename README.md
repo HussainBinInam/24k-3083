@@ -3,6 +3,5 @@ My name is Hussain Bin Inam I have studied programming on my own for 6 years the
 -Js
 -HTML
 -CSS
--C#
--Phyton
+aasdsklada
 -c++
