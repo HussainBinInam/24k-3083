@@ -8,7 +8,7 @@
   Display the month that is on the postion number 
 3]Ask the user for a number
   Ask the user for another number 
-  Ask the user for the opperator 
+asjdflasdfnasnfdnnzlcnvz
   if the opperator is + then SET Output_Number to number1 + number2
   if the opperator is - then SET Output_Number to number1 - number2
   if the opperator is * then SET Output_Number to number1 * number2
